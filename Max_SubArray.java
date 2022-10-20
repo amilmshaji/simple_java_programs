@@ -3,7 +3,7 @@ import java.util.*;
 public class Max_SubArray {
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
-        System.out.print("How many numbers in the array?: ");
+        System.out.print("How many numbers are there in the array?: ");
         int n = sc.nextInt();
         int array[] = new int[n];
 
